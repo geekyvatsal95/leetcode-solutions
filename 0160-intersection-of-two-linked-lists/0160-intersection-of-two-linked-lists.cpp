@@ -1,22 +1,40 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        unordered_set<ListNode*> st;
-        ListNode* temp=headA;
-        while(temp!=NULL){
-            st.insert(temp);
-            temp=temp->next;
+        ListNode* temp1=headA;
+        ListNode* temp2=headB;
+        int len1=0;
+        int len2=0;
+        while(temp1!=NULL){
+            len1++;
+            temp1=temp1->next;
         }
-        temp=headB;
-        while(temp!=NULL){
-            if(st.find(temp)!=st.end()) return temp;
-            temp=temp->next;
+        while(temp2!=NULL){
+            len2++;
+            temp2=temp2->next;
+        }
+        int diff=abs(len1-len2);
+        temp1=headA;
+        temp2=headB;
+        if(len1<len2){
+            for(int i=1;i<=diff;i++){
+                temp2=temp2->next;
+            }
+        }
+        else{
+            for(int i=1;i<=diff;i++){
+                temp1=temp1->next;
+            }
+        }
+        while(temp1!=NULL && temp2!=NULL){
+            if(temp1==temp2) return temp1;
+            temp1=temp1->next;
+            temp2=temp2->next;
         }
         return NULL;
 
 
-
-
+        
 
 
     }
