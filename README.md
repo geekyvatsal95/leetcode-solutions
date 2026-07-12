@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3592-inverse-coin-change](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3592-inverse-coin-change) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Linked List
 |  |
@@ -114,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
