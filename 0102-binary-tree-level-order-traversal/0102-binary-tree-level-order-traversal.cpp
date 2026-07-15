@@ -12,7 +12,7 @@ public:
                 root=q.front();
                 if(root->left!=NULL) q.push(root->left);
                 if(root->right!=NULL) q.push(root->right);
-                level.push_back(q.front()->val);
+                level.push_back(root->val);
                 q.pop();
             }
             ans.push_back(level);
