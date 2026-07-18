@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3592-inverse-coin-change](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3592-inverse-coin-change) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
