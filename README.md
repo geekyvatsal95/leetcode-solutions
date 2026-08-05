@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0541-reverse-string-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [3340-check-balanced-string](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
