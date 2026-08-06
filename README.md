@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0541-reverse-string-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0796-rotate-string) |
 | [3340-check-balanced-string](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
