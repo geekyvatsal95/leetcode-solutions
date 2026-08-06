@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0796-rotate-string) |
