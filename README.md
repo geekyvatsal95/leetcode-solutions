@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0587-erect-the-fence](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0587-erect-the-fence) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
 | [0587-erect-the-fence](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [1025-divisor-game](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -176,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
