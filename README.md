@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Brainteaser
 |  |
 | ------- |
