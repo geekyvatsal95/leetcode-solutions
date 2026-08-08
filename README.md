@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
 | [0587-erect-the-fence](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0587-erect-the-fence) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Brainteaser
