@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0149-max-points-on-a-line](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0050-powx-n) |
+| [0149-max-points-on-a-line](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0587-erect-the-fence) |
 ## Convex Hull
 |  |
@@ -293,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0587-erect-the-fence) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
