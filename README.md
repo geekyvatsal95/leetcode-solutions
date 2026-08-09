@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0587-erect-the-fence](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [0704-binary-search](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0704-binary-search) |
+| [1140-stone-game-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1025-divisor-game](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3592-inverse-coin-change](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3592-inverse-coin-change) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
 | [0587-erect-the-fence](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [1025-divisor-game](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Trie
 |  |
 | ------- |
@@ -308,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
