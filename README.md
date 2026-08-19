@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0078-subsets) |
 | [0149-max-points-on-a-line](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
 |  |
