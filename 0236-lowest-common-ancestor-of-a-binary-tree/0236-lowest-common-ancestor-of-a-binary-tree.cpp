@@ -1,14 +1,13 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==NULL) return NULL;
-        if(root==p || root==q) return root ;
-        //left side se leftN nikal lo 
-        TreeNode* leftN=lowestCommonAncestor(root->left,p,q);
-        //right side se rightN nikal lo 
-        TreeNode* rightN=lowestCommonAncestor(root->right,p,q);
-        if(leftN!=NULL && rightN!=NULL) return root;
-        if(leftN==NULL) return rightN;
-        return leftN;
+        if(root==NULL) return root;
+        if(root==p || root==q) return root;
+        TreeNode* LeftN=lowestCommonAncestor(root->left,p,q);
+        TreeNode* RightN=lowestCommonAncestor(root->right,p,q);
+        if(LeftN!=NULL && RightN!=NULL) return root;
+        if(LeftN) return LeftN;
+        return RightN;
+        
     }
 };
