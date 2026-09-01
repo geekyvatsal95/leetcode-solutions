@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3592-inverse-coin-change](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3592-inverse-coin-change) |
 | [3620-network-recovery-pathways](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3312-sorted-gcd-pair-queries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Linked List
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
