@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0149-max-points-on-a-line](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -382,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
