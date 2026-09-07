@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
