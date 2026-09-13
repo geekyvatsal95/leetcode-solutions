@@ -431,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
