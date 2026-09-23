@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3312-sorted-gcd-pair-queries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## String
@@ -438,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/0620-not-boring-movies) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/geekyvatsal95/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
